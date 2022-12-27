@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matthoe1212
-- 👀 I’m interested in C++ and QT
-- 🌱 I’m currently learning Qt Quick
+- 👀 I’m interested in 
+  - cyber security
+  - software developmend, especially C++, currently i am learning Qt
 
 <!---
 matthoe1212/matthoe1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
